@@ -24,6 +24,15 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "92186eef-d22b-4a21-9547-283fa3a08d57"
+      }
+    },
+    "android": {
+      "package": "com.mrpmunnadas.petcare"
     }
   }
 }
